@@ -1,7 +1,7 @@
 with open("advent13_input.txt", "r") as f:
     input = f.read()
 
-# For the test input rename
+# Rename this to just "input" to run with test input
 input_test = """
 Button A: X+94, Y+34
 Button B: X+22, Y+67
